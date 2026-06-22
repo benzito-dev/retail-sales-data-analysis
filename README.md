@@ -12,7 +12,7 @@ The objective of this project is to demonstrate the complete data analysis workf
 
 ### 1. Raw Dataset
 
-**File:** `01_Messy_Data.xlsx`
+**File:** `Messy_Data.xlsx`
 
 This workbook contains the original dataset before any cleaning, transformation, or validation was performed.
 
@@ -20,7 +20,7 @@ This workbook contains the original dataset before any cleaning, transformation,
 
 ### 2. Main Project Workbook
 
-**File:** `02_Sales_Analysis_Project.xlsx`
+**File:** `Sales_Data.xlsx`
 
 This workbook contains the following worksheets:
 
